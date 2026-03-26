@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml:2:13-83
+INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml:2:13-83
+	package
+		INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml
+	xmlns:android
+		ADDED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml:2:23-81
+uses-sdk
+INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml reason: use-sdk injection requested
+INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml
+INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml
+	android:minSdkVersion
+		INJECTED from /Users/shashankrao/Claude Code/boomin-garage/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2562671069567580326.xml

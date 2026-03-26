@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.boomingarage.android.androidApp-mergeDebugResources-94:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/shashankrao/.gradle/caches/8.10.2/transforms/182d811c9ea5b2f85305de4964d9ebdb/transformed/appcompat-1.7.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

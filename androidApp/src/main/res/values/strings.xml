@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boomin Garage</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_bookings">Bookings</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_bays">Bays</string>
+    <string name="tab_stats">Stats</string>
+</resources>
