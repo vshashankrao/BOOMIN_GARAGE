@@ -1,6 +1,6 @@
 package com.boomingarage.shared.di
 
-import com.boomingarage.shared.data.repository.*
+import com.boomingarage.shared.data.mock.*
 import com.boomingarage.shared.domain.repository.*
 import com.boomingarage.shared.domain.usecase.auth.*
 import com.boomingarage.shared.domain.usecase.booking.*
@@ -15,13 +15,13 @@ import org.koin.dsl.module
 
 val commonModule = module {
     // Repositories
-    singleOf(::AuthRepositoryImpl) bind AuthRepository::class
-    singleOf(::GarageRepositoryImpl) bind GarageRepository::class
-    singleOf(::BookingRepositoryImpl) bind BookingRepository::class
-    singleOf(::CheckInRepositoryImpl) bind CheckInRepository::class
-    singleOf(::ReviewRepositoryImpl) bind ReviewRepository::class
-    singleOf(::PaymentRepositoryImpl) bind PaymentRepository::class
-    singleOf(::StatsRepositoryImpl) bind StatsRepository::class
+    singleOf(::MockAuthRepository) bind AuthRepository::class
+    singleOf(::MockGarageRepository) bind GarageRepository::class
+    singleOf(::MockBookingRepository) bind BookingRepository::class
+    singleOf(::MockCheckInRepository) bind CheckInRepository::class
+    singleOf(::MockReviewRepository) bind ReviewRepository::class
+    singleOf(::MockPaymentRepository) bind PaymentRepository::class
+    singleOf(::MockStatsRepository) bind StatsRepository::class
 
     // Auth Use Cases
     factory { SignInUseCase(get()) }
